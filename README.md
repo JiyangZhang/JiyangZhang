@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Jiyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiyangZhang&count_private=true)](https://github.com/JiyangZhang/github-readme-stats)
 - 🔬 I’m currently working on software engineering + AI research
 - 🏆 I'm  really enjoying playing 🏸 , 🏐 and sometimes 🎾
